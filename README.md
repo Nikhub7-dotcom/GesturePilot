@@ -46,3 +46,10 @@ pip install -r requirements.txt
 
 conda activate py311_env  # or your env name
 python ComputerControl.py
+
+
+
+## 🎥 Demo
+
+[![Watch the demo](https://img.youtube.com/vi/AzIjbG0mR5c/maxresdefault.jpg)](https://youtu.be/AzIjbG0mR5c)
+
