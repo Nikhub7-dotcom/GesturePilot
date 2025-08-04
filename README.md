@@ -27,6 +27,8 @@ Install dependencies via:
 
 pip install -r requirements.txt
 
+
+
 🗂️ Project Structure
 ├── ComputerControl.py         # Main script to run the controller
 ├── action.h5 / CC_action.h5   # Trained model files
@@ -36,6 +38,8 @@ pip install -r requirements.txt
 ├── CC_Logs/                   # Model training logs
 ├── Sign Language Detection.ipynb
 └── ComputerControl.ipynb
+
+
 
 🖥️ Running the System
 🔹 From Terminal:
